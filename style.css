@@ -19,7 +19,6 @@ P, UL, OL, LI, BLOCKQUOTE {
 	padding-left: 3px;
 	margin-left: 10px;
 	text-align: justify;
-	width:40em;
 }
 .generator {
 	color: #666666;
@@ -91,6 +90,13 @@ BODY {
 	background-image : none;
 	background-color : #ffffff;
 }
+.content {
+  max-width: 40em;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
+
 .rover {
 	color: #909090;
 	font-size: 12px;
