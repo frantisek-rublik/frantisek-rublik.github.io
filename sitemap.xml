@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://frantisek.rublik.tk/index.html</loc>
-  </url>
+	<url>
+	<loc>https://frantisek.rublik.tk/index.html</loc>
+	</url>
+	<url><loc>https://frantisek.rublik.tk/publications/02NonaparametricTestsAJS2019.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/03EstimatesCovarianceKybernetika2016.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/06TestingGeneralizedKybernetika2011.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/09SegmentationMachine2009.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/10HonschovaRublikAsymptMatSl2009.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/11CriticalvaluesMeasScRev2009.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/12AsymptoticLocalTatraMount2008.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/13AsymptEfficiencyKybernetika2007.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/14MultisampleVersKybernetika2005.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/15TestsCharactRootsKybernetika2001.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/16QuantileGoodnessAplicatMat.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/17AsymptDistrLikelihoodMatSlov1999.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/18quantileKybernetika1997.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/19doptimalityKybernetika1995.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/20consistencyKybernetika1995.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/21HodgesKybernetika1994.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/22optimalityLRPart1Kybernetika1995.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/23optimalityLRPart2Kybernetika1995.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/24MathSlov_39-1989-2_9.pdf</loc></url>
+	<url><loc>https://frantisek.rublik.tk/publications/25MathSlov_33-1983-2_2.pdf</loc></url>
 </urlset>
